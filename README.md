@@ -30,8 +30,8 @@ I am a statistics student at Institut Teknologi Sepuluh Nopember (ITS) with a st
 - 🛠️ [Project 3 - SQL Query Optimization](#) <br> 
 <br />
 ---
-<br />
-## 🌍 Where to Find Me  
+
+# 🌍 Where to Find Me  
 <br />
 <p align="left">  
   <a href="https://linkedin.com/in/hollyviarptr" target="_blank">  
