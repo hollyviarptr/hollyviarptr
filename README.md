@@ -12,15 +12,14 @@ I am a statistics student at Institut Teknologi Sepuluh Nopember (ITS) with a st
 # 🛠️ Languages and Tools I Use
 <br />
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="50" height="auto"/>
-  <img src="https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png" alt="SQL" width="30" height="auto"/>
-  <img src="https://w7.pngwing.com/pngs/291/81/png-transparent-e-logo-spss-modeler-ibm-data-analysis-statistics-ibm-blue-text-logo-thumbnail.png" alt="SPSS" width="50" height="auto"/>
-  <img src="https://softwareasli.com/wp-content/uploads/2024/05/minitab-statistical-software-logo.png" alt="Minitab" width="50" height="auto"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcTrpqqe2HcMkOUflczPB-lfdTmsnvjuNnQ&s" alt="Power BI" width="50" height="auto"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDA8o-B1aL6Mxg8qvIBfVdFj7g6HLpEEWZ4g&s" alt="Tableau" width="30" height="auto"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkk29p9RgMDVer__tQtgyvRca2aZ4gn3ku2eUhzoLFRCo2jV7QEdpGmhdQvOJ7EYcNoQQ&usqp=CAU" alt="Python" width="50" height="auto"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SPSS-1F70C1?style=for-the-badge&logo=ibm&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Minitab-003366?style=for-the-badge&logo=minitab&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
 </p>
-
 
 ---
 # 📌 Recent Projects 
