@@ -22,9 +22,9 @@ I am a statistics student at Institut Teknologi Sepuluh Nopember (ITS) with a st
 
 ---
 # 📌 Recent Projects 
-- 📊 [Project 1 - Dashboard Visualization](#)   <br>
-- 📈 [Project 2 - Data Analysis](#)  <br>
-- 🛠️ [Project 3 - SQL Query Optimization](#) <br>
+- 📊 [Sales Analysis Dashboard using Excel](https://github.com/hollyviarptr/dashboardanalisispenjualan)   <br>
+- 📈 [Telecom Churn Analysis with Machine Learning (Random Forest & Logistic Regression)](https://github.com/hollyviarptr/telco-churnanalysis)  <br>
+
   
 ---
 # 🌍 Where to Find Me  
