@@ -13,16 +13,14 @@ I am a statistics student at Institut Teknologi Sepuluh Nopember (ITS) with a st
 <br />
 <p align="left">  
 <p align="left">
-  <p align="left">
-  <img src="https://www.google.com/search?q=excel+icon&sca_esv=52e5a364f5a1b9dc&udm=2&biw=1280&bih=585&sxsrf=AHTn8zroIcJxy-vPPVQ9vsLq0cKTxIeirA%3A1740303587500&ei=4-y6Z8ybHrbk4-EP8L8mQs&ved=0ahUKEwiMmYmJwNmLAxU28jgGHfAfL7MQ4dUDCBE&uact=5&oq=excel+icon&gs_lp=EgNpbWciCmV4Y2VsIGljb24yChAAGIAEGEMYigUyBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yCBAAGAcYChgeMgUQABiABDIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeSJEHUABYyAVwAHgAkAEBmAHfA6AB0QmqAQcyLjEuNC0yuAEDyAEA-AEBmAICoAKwAcICCBAAGBMYBxgewgIKEAAYExgHGAoYHpgDAJIHATKgB-sZ&sclient=img#vhid=BrHis2i2onYvwM&vssid=mosaic" alt="Excel" width="50" height="50"/>
-  <img src="https://www.google.com/search?sca_esv=52e5a364f5a1b9dc&udm=2&sxsrf=AHTn8zq1KxJQyJFWpVzeuyzMiozPdpRgZw:1740303726177&q=mysql+logo&stick=H4sIAAAAAAAAAFvEypVbWVyYo5CTn54PADeg1G0NAAAA&source=univ&sa=X&ved=2ahUKEwjnsZnLwNmLAxWgzjgGHQqkL-0QrNwCegUIhAEQAA&biw=1280&bih=585&dpr=1.5#vhid=Bgugh_pvo8X-JM&vssid=mosaic" alt="SQL" width="50" height="50"/>
-  <img src="https://www.google.com/search?q=logo+spss&sca_esv=52e5a364f5a1b9dc&udm=2&biw=1280&bih=585&sxsrf=AHTn8zqUvL0v-wcfLj8FYtkTB_9kQ99v6Q%3A1740303777617&ei=oe26Z7SyJd-E4-EPipnWuQ8&ved=0ahUKEwj0ht3jwNmLAxVfwjgGHYqMNfcQ4dUDCBE&uact=5&oq=logo+spss&gs_lp=EgNpbWciCWxvZ28gc3BzczIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgQQABgeMgQQABgeSIUHUIYDWK4GcAF4AJABAJgBV6ABvQKqAQE0uAEDyAEA-AEBmAIFoAL2AsICChAAGIAEGEMYigXCAgYQABgHGB7CAggQABiABBixA5gDAIgGAZIHAzQuMaAH1xE&sclient=img#vhid=DWeNuPuPKvlQqM&vssid=mosaic" alt="SPSS" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Minitab_Logo.svg" alt="Minitab" width="50" height="50"/>
-  <img src="https://www.google.com/search?sa=X&sca_esv=52e5a364f5a1b9dc&udm=2&sxsrf=AHTn8zqXwR2i3jJsQ-xIjlnHbO4ogomDiQ:1740303479202&q=power+bi+icon&stick=H4sIAAAAAAAAAFvEyluQX55apJCUqZCZnJ8HAE5ioTUQAAAA&source=univ&ved=2ahUKEwiEobfVv9mLAxVf3TgGHddMMqwQrNwCegUIhgEQAA&biw=1280&bih=585&dpr=1.5#vhid=kVYbsD25-Z1PwM&vssid=mosaic" alt="Power BI" width="50" height="50"/>
-  <img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" alt="Tableau" width="50" height="50"/>
-  <img src="https://www.google.com/search?q=logo+python&sca_esv=52e5a364f5a1b9dc&udm=2&biw=1280&bih=585&sxsrf=AHTn8zpsEad_XOxE7aBJFZ6cWTZEGQfi-w%3A1740303736037&ei=eO26Z9mFAoSf4-EP_53DuQw&ved=0ahUKEwjZofPPwNmLAxWEzzgGHf_OMMcQ4dUDCBE&uact=5&oq=logo+python&gs_lp=EgNpbWciC2xvZ28gcHl0aG9uMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjoFFAAWJ0TcAB4AJABAJgBqgGgAeAHqgEEMTAuMbgBA8gBAPgBAZgCC6ACzQjCAgcQIxgnGMkCwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgINEAAYgAQYsQMYQxiKBcICCBAAGIAEGLEDwgIHEAAYgAQYCpgDAJIHAzguM6AHvUI&sclient=img#vhid=Bg4BMw4V23LTWM&vssid=mosaic" alt="Python" width="50" height="50"/>
-</p>
-
+  <img src="URL_ICON_EXCEL" alt="Excel" width="50" height="50"/>
+  <img src="URL_ICON_SQL" alt="SQL" width="50" height="50"/>
+  <img src="https://w7.pngwing.com/pngs/291/81/png-transparent-e-logo-spss-modeler-ibm-data-analysis-statistics-ibm-blue-text-logo-thumbnail.png" alt="SPSS" width="50" height="50"/>
+  <img src="URL_ICON_MINITAB" alt="Minitab" width="50" height="50"/>
+  <img src="URL_ICON_POWER_BI" alt="Power BI" width="50" height="50"/>
+  <img src="URL_ICON_TABLEAU" alt="Tableau" width="50" height="50"/>
+  <img src="URL_ICON_PYTHON" alt="Python" width="50" height="50"/>
+  <img src="URL_ICON_JUPYTER" alt="Jupyter" width="50" height="50"/>
 </p>  
 </p>  
 
