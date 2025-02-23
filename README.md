@@ -5,14 +5,15 @@
 
 ---
 <br />
-## 🔹 About Me 
+
+# 🔹 About Me 
 <br > 
 I am a statistics student at Institut Teknologi Sepuluh Nopember (ITS) with a strong passion for data analysis, visualization, and dashboard creation. Proficient in Excel, SQL, SPSS, Minitab, Power BI, and Tableau, I enjoy transforming raw data into meaningful insights. With a keen interest in data-driven decision-making, I am always eager to explore new analytical techniques and tools to uncover valuable patterns and trends.
 <br />
 ---
 <br />
 
-## 🛠️ Languages and Tools I Use
+# 🛠️ Languages and Tools I Use
 <br />
 <p align="left">  
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  
@@ -26,7 +27,8 @@ I am a statistics student at Institut Teknologi Sepuluh Nopember (ITS) with a st
 ---
 <br />
 
-## 📌 Recent Projects 
+
+# 📌 Recent Projects 
 - 📊 [Project 1 - Dashboard Visualization](#)   <br>
 - 📈 [Project 2 - Data Analysis](#)  <br>
 - 🛠️ [Project 3 - SQL Query Optimization](#) <br> 
