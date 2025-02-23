@@ -4,14 +4,12 @@
 📊 Passionate about Data Analysis, Visualization, and Dashboard Development <br>
 
 ---
-<br />
 
 # 🔹 About Me 
 <br > 
 I am a statistics student at Institut Teknologi Sepuluh Nopember (ITS) with a strong passion for data analysis, visualization, and dashboard creation. Proficient in Excel, SQL, SPSS, Minitab, Power BI, and Tableau, I enjoy transforming raw data into meaningful insights. With a keen interest in data-driven decision-making, I am always eager to explore new analytical techniques and tools to uncover valuable patterns and trends.
 <br />
 ---
-<br />
 
 # 🛠️ Languages and Tools I Use
 <br />
@@ -23,10 +21,8 @@ I am a statistics student at Institut Teknologi Sepuluh Nopember (ITS) with a st
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>  
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>  
 </p>  
-<br />
----
-<br />
 
+---
 
 # 📌 Recent Projects 
 - 📊 [Project 1 - Dashboard Visualization](#)   <br>
