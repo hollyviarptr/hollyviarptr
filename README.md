@@ -13,14 +13,16 @@ I am a statistics student at Institut Teknologi Sepuluh Nopember (ITS) with a st
 <br />
 <p align="left">  
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SPSS-1F70C1?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Minitab-003366?style=for-the-badge&logo=minitab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <p align="left">
+  <img src="https://www.freepik.com/icon/excel_732220" alt="Excel" width="50" height="50"/>
+  <img src="https://www.freepik.com/icon/sql_7506880" alt="SQL" width="50" height="50"/>
+  <img src="https://www.freepik.com/icon/folder_13059845#fromView=search&page=1&position=0&uuid=7c1a0a8c-5280-4ae9-9cb9-08b6a436a204" alt="SPSS" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Minitab_Logo.svg" alt="Minitab" width="50" height="50"/>
+  <img src="https://www.google.com/search?sa=X&sca_esv=52e5a364f5a1b9dc&udm=2&sxsrf=AHTn8zqXwR2i3jJsQ-xIjlnHbO4ogomDiQ:1740303479202&q=power+bi+icon&stick=H4sIAAAAAAAAAFvEyluQX55apJCUqZCZnJ8HAE5ioTUQAAAA&source=univ&ved=2ahUKEwiEobfVv9mLAxVf3TgGHddMMqwQrNwCegUIhgEQAA&biw=1280&bih=585&dpr=1.5#vhid=kVYbsD25-Z1PwM&vssid=mosaic" alt="Power BI" width="50" height="50"/>
+  <img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" alt="Tableau" width="50" height="50"/>
+  <img src="https://www.freepik.com/icon/python_5968350#fromView=search&page=1&position=3&uuid=e3988c5d-e0e5-446c-a49c-c88f62e6db36" alt="Python" width="50" height="50"/>
+</p>
+
 </p>  
 </p>  
 
