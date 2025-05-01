@@ -27,6 +27,7 @@ I am a statistics student at Institut Teknologi Sepuluh Nopember (ITS) with a st
 2. 💰 [Realization of State Revenue Dashboard Using Tableau](https://public.tableau.com/app/profile/hollyviar.zalukhu/viz/Dashboard_17403794501190/Dashboard1?publish=yes)   <br>
 3. 📊 [Grocery Analysis Dashboard Using Power BI](https://github.com/hollyviarptr/Grocery-Analysis-Dashboard) <br>
 4. 📈 [Telecom Churn Analysis with Machine Learning (Random Forest & Logistic Regression)](https://github.com/hollyviarptr/telco-churnanalysis)  <br>
+5. 🌊 [Multivariate Analysis for Water Quality Evaluation (Clustering, PCA, DFA, Factor Analysis)](https://github.com/hollyviarptr/multivariateanalysis) <br>
 
 
 ---
